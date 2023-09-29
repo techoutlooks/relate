@@ -59,6 +59,7 @@ Installation
 ------------
 
 See the `installation guide <http://documen.tician.de/relate/misc.html#installation>`_.
+DevOps [guide](./DEVOPS.md).
 
 License
 -------

@@ -104,6 +104,7 @@ django-celery-results = "^2.4.0"
 
 # }}}
 
+gunicorn = "*"
 
 
 # For searchable select widgets
